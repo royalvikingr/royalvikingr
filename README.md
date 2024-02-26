@@ -5,8 +5,8 @@
 ### 📊 GitHub Stats
 
 ![royalvikingr's Stats](https://github-readme-stats.vercel.app/api?username=royalvikingr&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)  
-![royalvikingr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=royalvikingr&theme=chartreuse-dark&hide_border=true)  
-![royalvikingr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royalvikingr&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+#![royalvikingr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=royalvikingr&theme=chartreuse-dark&hide_border=true)  
+#![royalvikingr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royalvikingr&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 🏆 GitHub Trophies
 
