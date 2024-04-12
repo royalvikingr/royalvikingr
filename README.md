@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-### 💻 Tech Stack
+<!-- ### 💻 Tech Stack -->
 
 ### 📊 GitHub Stats
 
