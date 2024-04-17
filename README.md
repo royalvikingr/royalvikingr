@@ -1,6 +1,8 @@
 ### Welcome! 👋
 
-![](https://www.credly.com/badges/e5f351a2-4fe5-4efa-a465-aa7a614ee27a/public_url)
+<!-- ![](https://www.credly.com/badges/e5f351a2-4fe5-4efa-a465-aa7a614ee27a/public_url) -->
+
+![](/pictures/aws-certified-cloud-practitioner.png)
 
 <!-- ### 💻 Tech Stack -->
 
