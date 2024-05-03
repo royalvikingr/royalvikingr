@@ -32,12 +32,12 @@ Hi, I'm Sebastian, a new face in the tech space (rhyming not intended, but I'll 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 ![royalvikingr's Stats](https://github-readme-stats.vercel.app/api?username=royalvikingr&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)  
-<!-- ![royalvikingr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=royalvikingr&theme=chartreuse-dark&hide_border=true)  
-![royalvikingr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royalvikingr&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact) -->
+![royalvikingr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=royalvikingr&theme=chartreuse-dark&hide_border=true)  
+![royalvikingr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royalvikingr&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 ### 🏆 GitHub Trophies
-[![trophies](https://github-profile-trophy.vercel.app/?username=royalvikingr&theme=matrix&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15&no-frame=true)](https://github.com/royalvikingr/github-profile-trophy)
+[![trophies](https://github-profile-trophy.vercel.app/?username=royalvikingr&theme=matrix&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15&no-frame=true)](https://github.com/royalvikingr/github-profile-trophy) -->
 
 <!--
 Hi there 👋
